@@ -70,3 +70,32 @@ p {
     border: none;
     cursor: pointer;
 }
+
+/* Responsivo para Cell phone */
+@media screen and (max-width:430px) {
+    header{
+        display: none;
+    }
+
+    img{
+        width: 354px;
+        height: 317px;
+        margin: 149px 0 24px 25px;
+    }
+
+    section{
+        margin-left: 70px;
+    }
+
+    h1{
+        font-size: 50px;
+    }
+
+    h2{
+        font-size: 30px;
+    }
+
+    p{
+        display: none;
+    }
+}
