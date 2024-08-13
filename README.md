@@ -5,13 +5,13 @@
   <br>
   Me desafiei a deixar responsivo para computador e celular.
   <br>
+  <br>
   Ultilizei às tecnologias:
   <br>
   HTML
   <br>
   CSS
 </p>
-<br>
 <br>
 <br>
 <img src="https://github.com/AlanGomes-Dev/We-Care/blob/main/Screen%20We%20Care.png?raw=true"/>
