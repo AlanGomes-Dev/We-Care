@@ -14,4 +14,4 @@
 <br>
 <br>
 <br>
-<img scr="https://github.com/AlanGomes-Dev/We-Care/blob/main/Screen%20We%20Care.png?raw=true"/>
+<img src="https://github.com/AlanGomes-Dev/We-Care/blob/main/Screen%20We%20Care.png?raw=true"/>
