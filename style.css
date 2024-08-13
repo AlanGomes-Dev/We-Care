@@ -5,8 +5,18 @@
     font-family: "Montserrat", sans-serif;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1;
+}
+
 header {
-    padding: 44px 0 144px 77px;
+    padding: 44px 0 110px 77px;
     font-size: 24px;
     font-weight: 600;
     color: #989D9C;
@@ -36,6 +46,8 @@ img {
     margin: 0 86px -50px 125px;
     display: inline-block;
 }
+
+
 
 section {
     display: inline-block;
@@ -71,6 +83,12 @@ p {
     cursor: pointer;
 }
 
+footer{    
+    text-align: center;
+    margin: 10px;
+    color: #8e88c9;
+}
+
 /* Responsivo para Cell phone */
 @media screen and (max-width:430px) {
     header{
@@ -98,5 +116,5 @@ p {
 
     p{
         display: none;
-    }
+    }    
 }
